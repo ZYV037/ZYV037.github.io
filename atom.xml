@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AaronZhang&#39;s Blog</title>
+  
+  <subtitle>Give me Truth</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://zyv037.github.io/"/>
+  <updated>2019-05-01T10:36:58.772Z</updated>
+  <id>https://zyv037.github.io/</id>
+  
+  <author>
+    <name>AaronZhang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo Config</title>
+    <link href="https://zyv037.github.io/2019/05/01/Hexo-Config/"/>
+    <id>https://zyv037.github.io/2019/05/01/Hexo-Config/</id>
+    <published>2019-05-01T10:23:18.000Z</published>
+    <updated>2019-05-01T10:36:58.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>Post分割线加长：themes\next\source\css_common\components\post\post-efo.styl  .posts-expand .post-eof width<br>增加Categories链接不生效：source\categories\index.cmd set – type: “categories”<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Post分割线加长：themes\next\source\css_common\components\post\post-efo.styl  .posts-expand .post-eof width&lt;br&gt;增加Categories链接不生效：source\categories\index.cmd set – type: “categories”&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Html" scheme="https://zyv037.github.io/categories/Html/"/>
+    
+    
+      <category term="HexoConfig" scheme="https://zyv037.github.io/tags/HexoConfig/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>希斯特斯兄弟</title>
+    <link href="https://zyv037.github.io/2019/05/01/%E5%B8%8C%E6%96%AF%E7%89%B9%E6%96%AF%E5%85%84%E5%BC%9F/"/>
+    <id>https://zyv037.github.io/2019/05/01/希斯特斯兄弟/</id>
+    <published>2019-05-01T02:36:43.000Z</published>
+    <updated>2019-05-01T09:49:53.046Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们经历的事情造就了我们。<br>杀死父亲需要巨大的勇气，这是一种象征，是一种悖论，是不可能的事情。<br>虽然做不到，也就只好在棺材前锤他一拳。<br>杰克吉伦哈尔的电影都挺不错的。<br>我想他追求的是金子将带给这个世界的改变，将为他的文字添加一个重要的构想。<br>政治家是可恶的，我想不是他们重要，而是不带他们玩，他们就搞破坏，他们就会让谁都完不成。<br><img src="https://zyv037.github.io/images/movie/希斯特斯兄弟.jpg" alt="image"><br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我们经历的事情造就了我们。&lt;br&gt;杀死父亲需要巨大的勇气，这是一种象征，是一种悖论，是不可能的事情。&lt;br&gt;虽然做不到，也就只好在棺材前锤他一拳。&lt;br&gt;杰克吉伦哈尔的电影都挺不错的。&lt;br&gt;我想他追求的是金子将带给这个世界的改变，将为他的文字添加一个重要的构想。&lt;br&gt;政治家是可恶的，我想不是他们重要，而是不带他们玩，他们就搞破坏，他们就会让谁都完不成。&lt;br&gt;&lt;img src=&quot;https://zyv037.github.io/images/movie/希斯特斯兄弟.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+    
+    
+      <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>version2.0</title>
+    <link href="https://zyv037.github.io/2019/04/14/version2-0/"/>
+    <id>https://zyv037.github.io/2019/04/14/version2-0/</id>
+    <published>2019-04-14T10:10:06.000Z</published>
+    <updated>2019-05-01T11:00:49.435Z</updated>
+    
+    <content type="html"><![CDATA[<p>I will migrate my older version content to Hexo Mardown(.md).<br>Powered by  <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> v3.8.0<br>    Theme -  <a href="https://theme-next.org" target="_blank" rel="noopener">Next.Pisces</a> V7.1.0<br>    Comment by Valine (China)<br>    Local Search  <a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">Dependencies</a><br>    Counting Tools <a href="https://github.com/theme-next/hexo-leancloud-counter-security" target="_blank" rel="noopener">LeanCloud Counter</a><br>    Appreciate <a href="https://leancloud.cn/" target="_blank" rel="noopener">LeanCloud</a><br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I will migrate my older version content to Hexo Mardown(.md).&lt;br&gt;Powered by  &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt; v3.8.0&lt;br&gt;    Theme -  &lt;a href=&quot;https://theme-next.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Next.Pisces&lt;/a&gt; V7.1.0&lt;br&gt;    Comment by Valine (China)&lt;br&gt;    Local Search  &lt;a href=&quot;https://github.com/theme-next/hexo-generator-searchdb&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Dependencies&lt;/a&gt;&lt;br&gt;    Counting Tools &lt;a href=&quot;https://github.com/theme-next/hexo-leancloud-counter-security&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;LeanCloud Counter&lt;/a&gt;&lt;br&gt;    Appreciate &lt;a href=&quot;https://leancloud.cn/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;LeanCloud&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Notify" scheme="https://zyv037.github.io/categories/Notify/"/>
+    
+    
+      <category term="Nofity" scheme="https://zyv037.github.io/tags/Nofity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>毒品网路</title>
+    <link href="https://zyv037.github.io/2019/04/03/%E6%AF%92%E5%93%81%E7%BD%91%E8%B7%AF/"/>
+    <id>https://zyv037.github.io/2019/04/03/毒品网路/</id>
+    <published>2019-04-03T09:16:26.000Z</published>
+    <updated>2019-05-01T11:01:37.508Z</updated>
+    
+    <content type="html"><![CDATA[<p>抓住事情的本质 Things are connected<br><img src="https://zyv037.github.io/images/movie/毒品网路.jpg" alt="image"><br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;抓住事情的本质 Things are connected&lt;br&gt;&lt;img src=&quot;https://zyv037.github.io/images/movie/毒品网路.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+    
+    
+      <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>地球最后的夜晚</title>
+    <link href="https://zyv037.github.io/2019/03/24/%E5%9C%B0%E7%90%83%E6%9C%80%E5%90%8E%E7%9A%84%E5%A4%9C%E6%99%9A/"/>
+    <id>https://zyv037.github.io/2019/03/24/地球最后的夜晚/</id>
+    <published>2019-03-24T09:16:26.000Z</published>
+    <updated>2019-05-01T09:49:47.909Z</updated>
+    
+    <content type="html"><![CDATA[<p>这种电影我的形容是： 写实。我喜欢写实， 我喜欢真实。<br>《地球最后的夜晚》和母亲、养蜂人在大门口真的很动人。<br>给母亲蜂蜜吧。</p><p><img src="https://zyv037.github.io/images/movie/地球最后的夜晚.jpg" alt="image"></p><a id="more"></a><p>片尾曲 中岛美雪</p><audio controls="controls" autoplay="true"><br>    <source src="https://zyv037.github.io/images/movie/06 アザミ嬢のララバイ.m4a" type="audio/ogg"><br>    Your browser does not support the audio tag: m4a.<br></audio>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这种电影我的形容是： 写实。我喜欢写实， 我喜欢真实。&lt;br&gt;《地球最后的夜晚》和母亲、养蜂人在大门口真的很动人。&lt;br&gt;给母亲蜂蜜吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://zyv037.github.io/images/movie/地球最后的夜晚.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+    
+    
+      <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>黑色党徒</title>
+    <link href="https://zyv037.github.io/2019/03/06/%E9%BB%91%E8%89%B2%E5%85%9A%E5%BE%92/"/>
+    <id>https://zyv037.github.io/2019/03/06/黑色党徒/</id>
+    <published>2019-03-06T07:32:27.000Z</published>
+    <updated>2019-05-01T09:50:10.565Z</updated>
+    
+    <content type="html"><![CDATA[<p>A shit movie, even need no record<br>《黑色党徒》 黑人的电影证明了他们就改被鄙视<br>满片的意识灌输<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;A shit movie, even need no record&lt;br&gt;《黑色党徒》 黑人的电影证明了他们就改被鄙视&lt;br&gt;满片的意识灌输&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+    
+    
+      <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>男人四十</title>
+    <link href="https://zyv037.github.io/2019/03/04/%E7%94%B7%E4%BA%BA%E5%9B%9B%E5%8D%81/"/>
+    <id>https://zyv037.github.io/2019/03/04/男人四十/</id>
+    <published>2019-03-04T09:16:26.000Z</published>
+    <updated>2019-05-01T11:07:18.643Z</updated>
+    
+    <content type="html"><![CDATA[<p>哀吾生之须臾 羡长江之无穷<br><img src="https://zyv037.github.io/images/movie/男人四十.jpg" alt="image"><br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;哀吾生之须臾 羡长江之无穷&lt;br&gt;&lt;img src=&quot;https://zyv037.github.io/images/movie/男人四十.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+    
+    
+      <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>绿皮书</title>
+    <link href="https://zyv037.github.io/2019/03/03/%E7%BB%BF%E7%9A%AE%E4%B9%A6/"/>
+    <id>https://zyv037.github.io/2019/03/03/绿皮书/</id>
+    <published>2019-03-03T07:32:27.000Z</published>
+    <updated>2019-05-01T11:07:25.694Z</updated>
+    
+    <content type="html"><![CDATA[<p>每年奥斯卡奖项出炉后 我都会看起来。<br>《绿皮书》讲的是一个意大利Driver和黑人钢琴家的旅程。<br>在温暖的办公室，关掉灯光，很舒服。<br>电影是一个输入Input,写下这些作为输入Output<br><img src="https://zyv037.github.io/images/movie/green_book.jpg" alt="image"><br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;每年奥斯卡奖项出炉后 我都会看起来。&lt;br&gt;《绿皮书》讲的是一个意大利Driver和黑人钢琴家的旅程。&lt;br&gt;在温暖的办公室，关掉灯光，很舒服。&lt;br&gt;电影是一个输入Input,写下这些作为输入Output&lt;br&gt;&lt;img src=&quot;https://zyv037.github.io/images/movie/green_book.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+    
+    
+      <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
+    
+  </entry>
+  
+</feed>
