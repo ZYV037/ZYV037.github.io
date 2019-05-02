@@ -1,0 +1,117 @@
+a.weixin{
+   position:relative;
+ }
+ 
+.weixin::after{
+  content: url(images/wechat_qr_code.png);
+  position: absolute;
+  left: 20px;
+  top: 20x;
+  z-index: 99;
+  width:507px;
+  height: 665px;
+  border: 5px solid #0095ba;
+  transform-origin: left top;
+  transform: scale(0.0);
+  opacity: 0;
+  -webkit-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.weixin:hover::after{
+  transform:scale(0.3);
+  opacity: 1;
+}
+
+a.qq{
+   position:relative;
+ }
+ 
+.qq::after{
+  content: url(images/qq_qr_code.png);
+  position: absolute;
+  left: 20px;
+  top: 20x;
+  z-index: 99;
+  width:530px;
+  height: 760px;
+  border-radius: 4px;
+  transform-origin: left top;
+  transform: scale(0.0);
+  opacity: 0;
+  -webkit-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.qq:hover::after{
+  transform:scale(0.3);
+  opacity: 1;
+}
+
+a.weibo{
+   position:relative;
+ }
+ 
+.weibo::after{
+  content: url(images/weibo_qr_code.png);
+  position: absolute;
+  left: 20px;
+  top: 20x;
+  z-index: 99;
+  width:377px;
+  height: 688px;
+  border-radius: 4px;
+  transform-origin: left top;
+  transform: scale(0.0);
+  opacity: 0;
+  -webkit-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.weibo:hover::after{
+  transform:scale(0.3);
+  opacity: 1;
+}
+
+.span-contianer{    
+	width: 10%;   
+	float: left;
+} 
+
+.menu-contianer{    
+	width: 28%;    
+    float: left;
+}
+
+.fun-contianer{
+    width: 10%;
+    float: left;
+}
+
+.watch-contianer{
+    width: 12%;
+    float: left;
+}
+
+.computer-contianer{
+    width: 10%;
+    float: left;
+}
+
+.others-contianer{
+    width: 10%;
+    float: left;
+}
+
+.movie-contianer{
+    width: 10%;
+    float: left;
+}
+
+.books-contianer{
+    width: 10%;
+    float: left;
+}
