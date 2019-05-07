@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zyv037.github.io/"/>
-  <updated>2019-05-07T11:05:59.967Z</updated>
+  <updated>2019-05-07T11:09:05.553Z</updated>
   <id>https://zyv037.github.io/</id>
   
   <author>
@@ -21,17 +21,14 @@
     <link href="https://zyv037.github.io/2019/05/07/%E5%B0%8F%E6%84%9F-%E6%9C%89%E8%BF%9B/"/>
     <id>https://zyv037.github.io/2019/05/07/小感-有进/</id>
     <published>2019-05-07T10:53:42.000Z</published>
-    <updated>2019-05-07T11:05:59.967Z</updated>
+    <updated>2019-05-07T11:09:05.553Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>一直合作的二级建造师挂靠因为国家政策收紧而告终，今日将因合同半途终止的退款打给一直合作的人。没想到钱退了，却还带了个尾巴。合同生效10.13日 至 快递收到我的证书 4月11日，总计挂靠了半年，合同总额一年3万元，我退还了14950元，证书由于对方发了到付我扣了50元。本以为</code></pre><p>没有任何问题，在打完钱后对方来事找我继续要钱，说要按打电话通知我取消合同的时间计算。<br>    通过此事，我认为，在掌握主动权的情况下，因该谈好具体金额并落实到合同上方可付款。最基本的是付款前应该与对方确认金额是否一致。<br>    当按照个人意愿去做的时候，哪怕你算的再清楚，对方也有进一步向你索取的空间，因为你已经没有退路，但对方却有无限进取的空间。最后只能是恼火了<br>自己，多年的合作收尾于两有所猜。<br>    从这件事，我要学习，进无止境。事情可以而且应当做的更好。</p>]]></content>
+    <content type="html"><![CDATA[<pre><code>一直合作的二级建造师挂靠因为国家政策收紧而告终，今日将因合同半途终止的退款打给一直合作的人。</code></pre><p>没想到钱退了，却还带了个尾巴。<br>    合同生效10.13日 至 快递收到我的证书 4月11日，总计挂靠了半年，合同总额一年3万元，我退还了14950元，<br>证书由于对方发了到付我扣了50元。本以为没有任何问题，在打完钱后对方来事找我继续要钱，说要按打电话通知<br>我取消合同的时间计算。<br>    通过此事，我认为，在掌握主动权的情况下，因该谈好具体金额并落实到合同上方可付款。最基本的是付款前<br>应该与对方确认金额是否一致。<br>    当按照个人意愿去做的时候，哪怕你算的再清楚，对方也有进一步向你索取的空间，因为你已经没有退路，<br>但对方却有无限进取的空间。最后只能是恼火了自己，多年的合作收尾于两有所猜。<br>    从这件事，我要学习，进无止境。事情可以而且应当做的更好。<br><a id="more"></a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;pre&gt;&lt;code&gt;一直合作的二级建造师挂靠因为国家政策收紧而告终，今日将因合同半途终止的退款打给一直合作的人。没想到钱退了，却还带了个尾巴。
-合同生效10.13日 至 快递收到我的证书 4月11日，总计挂靠了半年，合同总额一年3万元，我退还了14950元，证书由于对方发了到付
-      
+      &lt;pre&gt;&lt;code&gt;一直合作的二级建造师挂靠因为国家政策收紧而告终，今日将因合同半途终止的退款打给一直合作的人。
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;没想到钱退了，却还带了个尾巴。&lt;br&gt;    合同生效10.13日 至 快递收到我的证书 4月11日，总计挂靠了半年，合同总额一年3万元，我退还了14950元，&lt;br&gt;证书由于对方发了到付我扣了50元。本以为没有任何问题，在打完钱后对方来事找我继续要钱，说要按打电话通知&lt;br&gt;我取消合同的时间计算。&lt;br&gt;    通过此事，我认为，在掌握主动权的情况下，因该谈好具体金额并落实到合同上方可付款。最基本的是付款前&lt;br&gt;应该与对方确认金额是否一致。&lt;br&gt;    当按照个人意愿去做的时候，哪怕你算的再清楚，对方也有进一步向你索取的空间，因为你已经没有退路，&lt;br&gt;但对方却有无限进取的空间。最后只能是恼火了自己，多年的合作收尾于两有所猜。&lt;br&gt;    从这件事，我要学习，进无止境。事情可以而且应当做的更好。&lt;br&gt;
     
     </summary>
     
@@ -47,7 +44,7 @@
     <link href="https://zyv037.github.io/2019/05/01/Hexo-Config/"/>
     <id>https://zyv037.github.io/2019/05/01/Hexo-Config/</id>
     <published>2019-05-01T10:23:18.000Z</published>
-    <updated>2019-05-01T10:36:58.772Z</updated>
+    <updated>2019-05-07T11:09:57.878Z</updated>
     
     <content type="html"><![CDATA[<p>Post分割线加长：themes\next\source\css_common\components\post\post-efo.styl  .posts-expand .post-eof width<br>增加Categories链接不生效：source\categories\index.cmd set – type: “categories”<br><a id="more"></a></p>]]></content>
     
@@ -57,7 +54,7 @@
     
     </summary>
     
-      <category term="Html" scheme="https://zyv037.github.io/categories/Html/"/>
+      <category term="Code" scheme="https://zyv037.github.io/categories/Code/"/>
     
     
       <category term="HexoConfig" scheme="https://zyv037.github.io/tags/HexoConfig/"/>
@@ -69,7 +66,7 @@
     <link href="https://zyv037.github.io/2019/05/01/%E5%B8%8C%E6%96%AF%E7%89%B9%E6%96%AF%E5%85%84%E5%BC%9F/"/>
     <id>https://zyv037.github.io/2019/05/01/希斯特斯兄弟/</id>
     <published>2019-05-01T02:36:43.000Z</published>
-    <updated>2019-05-01T09:49:53.046Z</updated>
+    <updated>2019-05-07T11:10:10.066Z</updated>
     
     <content type="html"><![CDATA[<p>我们经历的事情造就了我们。<br>杀死父亲需要巨大的勇气，这是一种象征，是一种悖论，是不可能的事情。<br>虽然做不到，也就只好在棺材前锤他一拳。<br>杰克吉伦哈尔的电影都挺不错的。<br>我想他追求的是金子将带给这个世界的改变，将为他的文字添加一个重要的构想。<br>政治家是可恶的，我想不是他们重要，而是不带他们玩，他们就搞破坏，他们就会让谁都完不成。<br><img src="https://zyv037.github.io/images/movie/希斯特斯兄弟.jpg" alt="image"><br><a id="more"></a></p>]]></content>
     
@@ -79,7 +76,7 @@
     
     </summary>
     
-      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+      <category term="Life" scheme="https://zyv037.github.io/categories/Life/"/>
     
     
       <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
@@ -113,7 +110,7 @@
     <link href="https://zyv037.github.io/2019/04/03/%E6%AF%92%E5%93%81%E7%BD%91%E8%B7%AF/"/>
     <id>https://zyv037.github.io/2019/04/03/毒品网路/</id>
     <published>2019-04-03T09:16:26.000Z</published>
-    <updated>2019-05-01T11:01:37.508Z</updated>
+    <updated>2019-05-07T11:09:39.766Z</updated>
     
     <content type="html"><![CDATA[<p>抓住事情的本质 Things are connected<br><img src="https://zyv037.github.io/images/movie/毒品网路.jpg" alt="image"><br><a id="more"></a></p>]]></content>
     
@@ -123,7 +120,7 @@
     
     </summary>
     
-      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+      <category term="Life" scheme="https://zyv037.github.io/categories/Life/"/>
     
     
       <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
@@ -135,7 +132,7 @@
     <link href="https://zyv037.github.io/2019/03/24/%E5%9C%B0%E7%90%83%E6%9C%80%E5%90%8E%E7%9A%84%E5%A4%9C%E6%99%9A/"/>
     <id>https://zyv037.github.io/2019/03/24/地球最后的夜晚/</id>
     <published>2019-03-24T09:16:26.000Z</published>
-    <updated>2019-05-01T09:49:47.909Z</updated>
+    <updated>2019-05-07T11:09:20.238Z</updated>
     
     <content type="html"><![CDATA[<p>这种电影我的形容是： 写实。我喜欢写实， 我喜欢真实。<br>《地球最后的夜晚》和母亲、养蜂人在大门口真的很动人。<br>给母亲蜂蜜吧。</p><p><img src="https://zyv037.github.io/images/movie/地球最后的夜晚.jpg" alt="image"></p><a id="more"></a><p>片尾曲 中岛美雪</p><audio controls="controls" autoplay="true"><br>    <source src="https://zyv037.github.io/images/movie/06 アザミ嬢のララバイ.m4a" type="audio/ogg"><br>    Your browser does not support the audio tag: m4a.<br></audio>]]></content>
     
@@ -146,7 +143,7 @@
     
     </summary>
     
-      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+      <category term="Life" scheme="https://zyv037.github.io/categories/Life/"/>
     
     
       <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
@@ -158,7 +155,7 @@
     <link href="https://zyv037.github.io/2019/03/06/%E9%BB%91%E8%89%B2%E5%85%9A%E5%BE%92/"/>
     <id>https://zyv037.github.io/2019/03/06/黑色党徒/</id>
     <published>2019-03-06T07:32:27.000Z</published>
-    <updated>2019-05-01T09:50:10.565Z</updated>
+    <updated>2019-05-07T11:10:16.159Z</updated>
     
     <content type="html"><![CDATA[<p>A shit movie, even need no record<br>《黑色党徒》 黑人的电影证明了他们就改被鄙视<br>满片的意识灌输<br><a id="more"></a></p>]]></content>
     
@@ -168,7 +165,7 @@
     
     </summary>
     
-      <category term="Movie" scheme="https://zyv037.github.io/categories/Movie/"/>
+      <category term="Life" scheme="https://zyv037.github.io/categories/Life/"/>
     
     
       <category term="Movie" scheme="https://zyv037.github.io/tags/Movie/"/>
