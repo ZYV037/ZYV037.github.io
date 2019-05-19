@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[volume_rendering点云绘制]]></title>
+    <url>%2F2019%2F05%2F17%2Fvolume_rendering%E7%82%B9%E4%BA%91%E7%BB%98%E5%88%B6%2F</url>
+    <content type="text"><![CDATA[Volume Rendering use QCustom3DVolume 3D texture/Point Cloud Drawing.The Transfer Color Edit Dialog public QColorDialog. The colorPoint ‘Y’ axis means alpha value. ‘X’ mean point depth.The point Color was the averange rgb&amp;alpha of it’s left colorPoint and right colorPoint.色彩编辑框包含数据分布曲线图。色彩点Y轴表示透明度(alpha)。x轴表示点云值。点云值对应颜色为两个色彩点的rgb及alpha均值。The trt file is a point volume.Include a simple point dense algorithm.点云的简单增加密度算法 refer: QT Example volumetric Inviwo]]></content>
+      <categories>
+        <category>Code</category>
+      </categories>
+      <tags>
+        <tag>Qt</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[talk with a girl]]></title>
     <url>%2F2019%2F05%2F15%2Ftalk-with-a-girl%2F</url>
     <content type="text"><![CDATA[与一个女孩聊天，有聊在哪里呢？ 我常会感到，也许明天就是世界末日，也许以前所有的谨小慎微都是毫无意义的，我必须立刻奋不顾身，才能在一切都结束前，做出点意义。我能做的是什么：是立即给最爱的那个女人电话，告诉她我爱她，她对我来说是完美的。我要立即给另一个中意的女人说，我仰慕她很久了，她的容颜我每天都念想着，这是你不知道的。 到最后，女人对我来说才是最重要的呢。 电影有趣么，足球有趣么？美国与苏维埃到头来你更中意谁？“为了共产主义，我愿意牺牲一切，不仅仅是生命，还有个人荣辱和道德”好听么？鲁迅，切格瓦拉，Aaron Swartz， 探索南极的罗伯特·福尔肯·斯科特，陈胜吴广做了什么呢？明朝与满清，中国，香港，台湾 到底错了什么？女权主义，种族主义，国家主义，LGBT，物种灭绝 在对立什么？熊猫，宠物狗，宠物猫，猪肉与牛肉，生吃海鲜的人类，它们根本就不仇恨彼此吧。 根本就没有时间，只有运动的物质。 “要奋斗 要追求 要发现 绝不认输”]]></content>

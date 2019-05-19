@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zyv037.github.io/"/>
-  <updated>2019-05-15T13:20:09.295Z</updated>
+  <updated>2019-05-19T04:00:07.414Z</updated>
   <id>https://zyv037.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>volume_rendering点云绘制</title>
+    <link href="https://zyv037.github.io/2019/05/17/volume_rendering%E7%82%B9%E4%BA%91%E7%BB%98%E5%88%B6/"/>
+    <id>https://zyv037.github.io/2019/05/17/volume_rendering点云绘制/</id>
+    <published>2019-05-17T09:16:26.000Z</published>
+    <updated>2019-05-19T04:00:07.414Z</updated>
+    
+    <content type="html"><![CDATA[<p>Volume Rendering use QCustom3DVolume 3D texture/Point Cloud Drawing.<br>The Transfer Color Edit Dialog public QColorDialog. The colorPoint ‘Y’ axis means alpha value. ‘X’ mean point depth.<br>The point Color was the averange rgb&amp;alpha of it’s left colorPoint and right colorPoint.<br>色彩编辑框包含数据分布曲线图。色彩点Y轴表示透明度(alpha)。x轴表示点云值。点云值对应颜色为两个色彩点的rgb及alpha均值。<br><img src="https://github.com/ZYV037/QT_Example/blob/master/9_volume_rendering/volumetric.gif" alt="image"><br>The trt file is a point volume.Include a simple point dense algorithm.<br>点云的简单增加密度算法<br><img src="https://github.com/ZYV037/QT_Example/blob/master/9_volume_rendering/pointsclouddensealg.jpg" alt="image"></p><p> refer:<br>  <a href="https://doc.qt.io/qt-5/qtdatavisualization-volumetric-example.html" target="_blank" rel="noopener">QT Example volumetric</a><br>  <a href="https://inviwo.org/" target="_blank" rel="noopener">Inviwo</a><br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Volume Rendering use QCustom3DVolume 3D texture/Point Cloud Drawing.&lt;br&gt;The Transfer Color Edit Dialog public QColorDialog. The colorPoint ‘Y’ axis means alpha value. ‘X’ mean point depth.&lt;br&gt;The point Color was the averange rgb&amp;amp;alpha of it’s left colorPoint and right colorPoint.&lt;br&gt;色彩编辑框包含数据分布曲线图。色彩点Y轴表示透明度(alpha)。x轴表示点云值。点云值对应颜色为两个色彩点的rgb及alpha均值。&lt;br&gt;&lt;img src=&quot;https://github.com/ZYV037/QT_Example/blob/master/9_volume_rendering/volumetric.gif&quot; alt=&quot;image&quot;&gt;&lt;br&gt;The trt file is a point volume.Include a simple point dense algorithm.&lt;br&gt;点云的简单增加密度算法&lt;br&gt;&lt;img src=&quot;https://github.com/ZYV037/QT_Example/blob/master/9_volume_rendering/pointsclouddensealg.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt; refer:&lt;br&gt;  &lt;a href=&quot;https://doc.qt.io/qt-5/qtdatavisualization-volumetric-example.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;QT Example volumetric&lt;/a&gt;&lt;br&gt;  &lt;a href=&quot;https://inviwo.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Inviwo&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Code" scheme="https://zyv037.github.io/categories/Code/"/>
+    
+    
+      <category term="Qt" scheme="https://zyv037.github.io/tags/Qt/"/>
+    
+  </entry>
   
   <entry>
     <title>talk with a girl</title>
