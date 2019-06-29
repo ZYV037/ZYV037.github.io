@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zyv037.github.io/"/>
-  <updated>2019-06-15T13:27:22.682Z</updated>
+  <updated>2019-06-29T18:22:17.785Z</updated>
   <id>https://zyv037.github.io/</id>
   
   <author>
@@ -17,19 +17,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>人类登月运载火箭土星5号全图解</title>
+    <link href="https://zyv037.github.io/2019/06/30/%E4%BA%BA%E7%B1%BB%E7%99%BB%E6%9C%88%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%9C%9F%E6%98%9F5%E5%8F%B7%E5%85%A8%E5%9B%BE%E8%A7%A3/"/>
+    <id>https://zyv037.github.io/2019/06/30/人类登月运载火箭土星5号全图解/</id>
+    <published>2019-06-29T18:20:10.000Z</published>
+    <updated>2019-06-29T18:22:17.785Z</updated>
+    
+    <content type="html"><![CDATA[<p>登月运载火箭土星5号全图解全网首发啦。花了一周时间翻译，2000x4094像素，图片较大，建议电脑上看。<br><img src="https://zyv037.github.io/images/create/人类登月运载火箭土星5号全图解.jpg" alt="image"><br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;登月运载火箭土星5号全图解全网首发啦。花了一周时间翻译，2000x4094像素，图片较大，建议电脑上看。&lt;br&gt;&lt;img src=&quot;https://zyv037.github.io/images/create/人类登月运载火箭土星5号全图解.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Life" scheme="https://zyv037.github.io/categories/Life/"/>
+    
+    
+      <category term="RandomThoughts" scheme="https://zyv037.github.io/tags/RandomThoughts/"/>
+    
+  </entry>
+  
+  <entry>
     <title>libuv build under windows vs2015</title>
     <link href="https://zyv037.github.io/2019/06/15/libuv-build/"/>
     <id>https://zyv037.github.io/2019/06/15/libuv-build/</id>
     <published>2019-06-15T13:17:36.000Z</published>
-    <updated>2019-06-15T13:27:22.682Z</updated>
+    <updated>2019-06-15T13:28:14.612Z</updated>
     
-    <content type="html"><![CDATA[<ol><li>download source<a href="https://github.com/libuv/libuv/" target="_blank" rel="noopener">libuv source</a></li><li>install python2.7,vs2015,git</li><li>case GFW, vcbuild.bat gyp git path modify.<br> @rem echo git clone <a href="https://chromium.googlesource.com/external/gyp" target="_blank" rel="noopener">https://chromium.googlesource.com/external/gyp</a> build/gyp<br> @rem git clone <a href="https://chromium.googlesource.com/external/gyp" target="_blank" rel="noopener">https://chromium.googlesource.com/external/gyp</a> build/gyp<br> echo git clone <a href="https://github.com/turbulenz/gyp" target="_blank" rel="noopener">https://github.com/turbulenz/gyp</a> build/gyp<br> git clone <a href="https://github.com/turbulenz/gyp" target="_blank" rel="noopener">https://github.com/turbulenz/gyp</a> build/gyp</li><li>run vcbuild.bat</li><li>open uv.sln, set windows SDK version &amp; platform toolset.<br>if build shared library: Configuration type : Dynamic Library(.dll)<pre><code>Additional Dependencies add:ws2_32.lib;IPHLPAPI.lib;Psapi.lib;Userenv.lib;</code></pre> F5 build.<a id="more"></a></li></ol>]]></content>
+    <content type="html"><![CDATA[<ol><li>download source<a href="https://github.com/libuv/libuv/" target="_blank" rel="noopener">libuv source</a></li><li>install python2.7,vs2015,git.</li><li>case GFW, vcbuild.bat gyp git path modify.<br> @rem echo git clone <a href="https://chromium.googlesource.com/external/gyp" target="_blank" rel="noopener">https://chromium.googlesource.com/external/gyp</a> build/gyp<br> @rem git clone <a href="https://chromium.googlesource.com/external/gyp" target="_blank" rel="noopener">https://chromium.googlesource.com/external/gyp</a> build/gyp<br> echo git clone <a href="https://github.com/turbulenz/gyp" target="_blank" rel="noopener">https://github.com/turbulenz/gyp</a> build/gyp<br> git clone <a href="https://github.com/turbulenz/gyp" target="_blank" rel="noopener">https://github.com/turbulenz/gyp</a> build/gyp</li><li>run vcbuild.bat</li><li>open uv.sln, set windows SDK version &amp; platform toolset.<br>if build shared library: Configuration type : Dynamic Library(.dll)<pre><code>Additional Dependencies add:ws2_32.lib;IPHLPAPI.lib;Psapi.lib;Userenv.lib;</code></pre> F5 build.<a id="more"></a></li></ol>]]></content>
     
     <summary type="html">
     
       &lt;ol&gt;
 &lt;li&gt;download source&lt;a href=&quot;https://github.com/libuv/libuv/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;libuv source&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;install python2.7,vs2015,git&lt;/li&gt;
+&lt;li&gt;install python2.7,vs2015,git.&lt;/li&gt;
 &lt;li&gt;case GFW, vcbuild.bat gyp git path modify.&lt;br&gt; @rem echo git clone &lt;a href=&quot;https://chromium.googlesource.com/external/gyp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://chromium.googlesource.com/external/gyp&lt;/a&gt; build/gyp&lt;br&gt; @rem git clone &lt;a href=&quot;https://chromium.googlesource.com/external/gyp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://chromium.googlesource.com/external/gyp&lt;/a&gt; build/gyp&lt;br&gt; echo git clone &lt;a href=&quot;https://github.com/turbulenz/gyp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/turbulenz/gyp&lt;/a&gt; build/gyp&lt;br&gt; git clone &lt;a href=&quot;https://github.com/turbulenz/gyp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/turbulenz/gyp&lt;/a&gt; build/gyp&lt;/li&gt;
 &lt;li&gt;run vcbuild.bat&lt;/li&gt;
 &lt;li&gt;open uv.sln, set windows SDK version &amp;amp; platform toolset.&lt;br&gt;if build shared library: Configuration type : Dynamic Library(.dll)&lt;pre&gt;&lt;code&gt;Additional Dependencies add:ws2_32.lib;IPHLPAPI.lib;Psapi.lib;Userenv.lib;

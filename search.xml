@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[人类登月运载火箭土星5号全图解]]></title>
+    <url>%2F2019%2F06%2F30%2F%E4%BA%BA%E7%B1%BB%E7%99%BB%E6%9C%88%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%9C%9F%E6%98%9F5%E5%8F%B7%E5%85%A8%E5%9B%BE%E8%A7%A3%2F</url>
+    <content type="text"><![CDATA[登月运载火箭土星5号全图解全网首发啦。花了一周时间翻译，2000x4094像素，图片较大，建议电脑上看。]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>RandomThoughts</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[libuv build under windows vs2015]]></title>
     <url>%2F2019%2F06%2F15%2Flibuv-build%2F</url>
-    <content type="text"><![CDATA[download sourcelibuv source install python2.7,vs2015,git case GFW, vcbuild.bat gyp git path modify. @rem echo git clone https://chromium.googlesource.com/external/gyp build/gyp @rem git clone https://chromium.googlesource.com/external/gyp build/gyp echo git clone https://github.com/turbulenz/gyp build/gyp git clone https://github.com/turbulenz/gyp build/gyp run vcbuild.bat open uv.sln, set windows SDK version &amp; platform toolset.if build shared library: Configuration type : Dynamic Library(.dll)Additional Dependencies add:ws2_32.lib;IPHLPAPI.lib;Psapi.lib;Userenv.lib; F5 build.]]></content>
+    <content type="text"><![CDATA[download sourcelibuv source install python2.7,vs2015,git. case GFW, vcbuild.bat gyp git path modify. @rem echo git clone https://chromium.googlesource.com/external/gyp build/gyp @rem git clone https://chromium.googlesource.com/external/gyp build/gyp echo git clone https://github.com/turbulenz/gyp build/gyp git clone https://github.com/turbulenz/gyp build/gyp run vcbuild.bat open uv.sln, set windows SDK version &amp; platform toolset.if build shared library: Configuration type : Dynamic Library(.dll)Additional Dependencies add:ws2_32.lib;IPHLPAPI.lib;Psapi.lib;Userenv.lib; F5 build.]]></content>
       <categories>
         <category>Code</category>
       </categories>
